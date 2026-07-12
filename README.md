@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0EA5E9,100:FB923C&height=220&section=header&text=Hi%20There,%20I'm%20Pavani%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Full-Stack%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" />
+# PAVANI AGRAHARI
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0EA5E9,100:FB923C&height=200&section=header&text=&fontSize=1&desc=Aspiring%20Data%20Analyst%20%7C%20Full-Stack%20%26%20ML%20Enthusiast&descAlignY=50&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+actionable+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Flask+%7C+React.js;Building+ML-powered+web+apps+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
