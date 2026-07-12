@@ -1,119 +1,100 @@
-<h1 align="center">Hi there, I'm Pavani Agrahari 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Cloud Computing Enthusiast | B.Tech CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insights;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Exploring+Cloud+Computing+%26+Machine+Learning;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=220&section=header&text=Hi%20There,%20I'm%20Pavani%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Cloud%20Computing%20Enthusiast&descAlignY=55&descSize=18" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+actionable+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%F0%9F%92%BB;Exploring+Cloud+%26+Machine+Learning+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 💫 About Me
+<br/>
 
-- 🎓 B.Tech in **Computer Science & Engineering (Cloud Computing)**, SRM Institute of Science and Technology, Ghaziabad — *Class of 2027*
-- 📊 Aspiring **Data Analyst** with a strong foundation in data preprocessing, exploratory data analysis (EDA), and data visualization
-- 💼 Currently interning as a **Data Analytics Intern** at Thinklytics AI Consulting LLP
-- ☁️ Exploring **Cloud Computing**, **Data Analytics**, and **Machine Learning** through hands-on projects
-- 🌱 Recently completed a **Data Science Bootcamp** and a **Deloitte Data Analytics Job Simulation**
-- 🤝 Active volunteer with **NSS SRM IST** and **GeeksforGeeks SRMIST Delhi-NCR Chapter**
-- 🚀 Always eager to learn new technologies and solve real-world problems through data
+<a href="https://www.linkedin.com/in/pavani-agrahari-4b79a9285/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@pavaniagrahari7857" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:pavaniagrahari0420@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=Pavani0402&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
-### 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=3&section=header"/>
 
----
+## 💫 About Me
 
-### 🚀 Featured Project
+```yaml
+name: Pavani Agrahari
+education: B.Tech CSE (Cloud Computing) @ SRM IST Ghaziabad, Class of 2027
+role: Aspiring Data Analyst
+currently_working_at: Thinklytics AI Consulting LLP (Data Analytics Intern)
+interests: [Data Analytics, Cloud Computing, Machine Learning]
+currently_learning: Advanced SQL, Cloud-based Data Pipelines
+volunteering: [NSS SRM IST, GeeksforGeeks SRMIST Delhi-NCR Chapter]
+fun_fact: "I turn messy spreadsheets into clean stories 📈"
+```
 
-**📊 Sales Data Analysis and Insights Dashboard**
-Academic project analyzing sales data to uncover revenue trends, top-performing products, and seasonal patterns.
-- Cleaned and processed raw sales datasets using Python, Pandas, and NumPy
-- Performed exploratory data analysis (EDA) to uncover customer behavior and sales insights
-- Built visualizations for monthly sales, region-wise performance, and product-wise revenue
-- Delivered data-driven recommendations similar to real-world business analytics use cases
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ECDC4,100:FFE66D&height=3&section=header"/>
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Excel`
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 💼 Experience
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-| Role | Organization | Duration |
-|---|---|---|
-| Data Analytics Intern | Thinklytics AI Consulting LLP | Jan 2026 – Present |
-| Java Intern | VIDEOMEET Pvt. Ltd. | Jun 2026 – Jul 2026 |
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE66D,100:FF6B6B&height=3&section=header"/>
 
-### 📜 Certifications
+## 🚀 Featured Project
 
-- ☁️ **Cloud Computing with AWS** — Internshala Trainings
-- 📈 **Deloitte Australia: Data Analytics Job Simulation** — Forage
-- 🎓 **The Data Science Course: Complete Data Science Bootcamp 2026** — Udemy
-- 💬 **Prompt Engineering** — Infosys Springboard
-- 📡 **Wireless 5G Overview** — Infosys Springboard
-- ☕ **Java Basic** & 🐍 **Python Basic** — HackerRank
+<div align="center">
 
----
+<table>
+<tr>
+<td width="100%">
 
-### 🌐 Connect With Me
+### 📊 Sales Data Analysis and Insights Dashboard
+*Academic Project · B.Tech*
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavani-agrahari-4b79a9285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@pavaniagrahari7857" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
-  <a href="mailto:pavaniagrahari0420@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+Analyzed sales data to identify revenue trends, top-performing products, and seasonal patterns — cleaning, exploring, and visualizing data to surface real business insights.
 
----
+✅ Cleaned & processed raw sales datasets with Python, Pandas, and NumPy
+✅ Performed exploratory data analysis (EDA) to uncover customer behavior
+✅ Built visualizations for monthly, regional & product-wise revenue
+✅ Delivered data-driven recommendations for sales growth
 
-### 📊 GitHub Stats
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel`
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Pavani0402&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pavani0402&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pavani0402&theme=dark&hide_border=false" />
-</p>
+</div>
 
-### 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:A66CFF&height=3&section=header"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavani0402&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 💼 Experience
 
-### 🔝 Top Contributed Repo
+<div align="center">
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pavani0402&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+| 🏢 Organization | 🎯 Role | 📅 Duration |
+|:---|:---|:---|
+| **Thinklytics AI Consulting LLP** | Data Analytics Intern | Jan 2026 – Present |
+| **VIDEOMEET Pvt. Ltd.** | Java Intern | Jun 2026 – Jul 2026 |
 
----
+</div>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Pavani0402&icon=0&color=0" />
-  </a>
-</p>
-
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
+<img src="https://capsule-render.ve
