@@ -1,13 +1,14 @@
 <div align="center">
 
-# PAVANI AGRAHARI
+<!-- Waving Banner with Name Embedded -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,20:7209B7,45:0EA5E9,70:22C55E,100:FB923C&height=220&section=header&text=PAVANI%20AGRAHARI&fontSize=45&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20Full-Stack%20and%20ML%20Enthusiast&descAlignY=65&descSize=18" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,20:7209B7,45:0EA5E9,70:22C55E,100:FB923C&height=200&section=header&text=&fontSize=1&desc=Aspiring%20Data%20Analyst%20%7C%20Full-Stack%20%26%20ML%20Enthusiast&descAlignY=50&descSize=20" />
-
+<!-- Typing SVG Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+actionable+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Flask+%7C+React.js;Building+ML-powered+web+apps+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
+<!-- Social Badges -->
 <a href="https://linkedin.com/in/pavani-agrahari-4b79a9285/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,6 +22,9 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/><br/>
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Pavani0402&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 
 </div>
@@ -42,6 +46,7 @@ core_skills: [Python, Java, SQL, Power BI, Excel]
 exposure: [Cloud Computing (AWS), Machine Learning, Full-Stack Web Dev]
 volunteering: [NSS SRM IST, GeeksforGeeks SRMIST Delhi-NCR Chapter]
 fun_fact: "I turn messy spreadsheets AND messy resumes into clean insights 📊"
+
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0EA5E9&height=3&section=header"/>
